@@ -21,7 +21,7 @@ Final Grade: 19 / 20 :star:
 
 ## Images
 
-![image](https://github.com/user-attachments/assets/68ebe213-e4c2-48ff-a75a-c8e7a8714c25)
+![image](https://github.com/user-attachments/assets/10d40094-a268-4332-96cc-521ccd64ce69)
 ![image](https://github.com/user-attachments/assets/3fbd7142-1a9b-4c48-a6f6-ba23c7eaaf13)
 ![image](https://github.com/user-attachments/assets/6439d62f-4fb4-407a-b28f-64ac3d234c73)
 ![image](https://github.com/user-attachments/assets/0ccb949f-6eae-4381-ae36-cfee0a7689aa)
