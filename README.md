@@ -49,10 +49,6 @@ make testar
 ./testar
 ```
 
-## Documentation
-
-To access the documentation, open [index.html](https://github.com/deboravcaetano/LI2/blob/aa6cbd23c1d61d4543fcad66d43f68fe29e4ed43/Projeto/docs/docs/html/index.html).
-
 ## Details
 
 See all the details at [Projeto.pdf](https://github.com/deboravcaetano/LI2/blob/7bf57eca50cba7da7be94592d300f24af97411ff/Projeto/docs/pdf/Projeto.pdf) in Portuguese.
